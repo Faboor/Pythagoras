@@ -1,0 +1,27 @@
+Program Pytagoras je shareware. To znamená:
+
+	1. Všetky autorské práva k Pytagoras-u sú vıluènım vlastníctvom autora – Petra Kõváryho.
+	2. Ktoko¾vek môe pouíva tento software po dobu skúšobnej lehoty 40-tich dní. Po uplynutí skúšobnej doby 40-tich dní alebo menej, pokia¾ chcete Pytagoras ïalej pouíva, MUSÍTE sa zaregistrova.
+	3. Pre Pytagoras existujú 3 základné typy licencii. Sú to:
+		a. UÍVATE¼SKÁ licencia pre jeden poèítaè. Uívate¾ zakúpi JEDNU licenciu a smie POUÍVA Pytagoras na JEDNOM poèítaèi.
+		b. Viacnásobná UÍVATE¼SKÁ licencia. Uívate¾ zakúpi urèitı poèet UÍVATE¼SKİCH licencii, ktoré smie pouíva kupujúci, jeho zamestnanci a oprávnené osoby na rovnakom poète poèítaèov.
+		c. SPOLOÈNÁ licencia PRE ÏALŠÍ PREDAJ. Uívate¾ zakúpi licenciu na obmedzenı, presne špecifikovanı poèet kópií. Táto licencia oprávòuje kupujúceho ïalej predáva jednotlivé licencie tretím stranám v prípadoch, keï je Pytagoras súèasou iného produktu èi systému. Táto licencia tie oprávòuje k priamemu predaju Pytagora ako samostatného produktu.
+
+Len èo je uívate¾ zaregistrovanı a je potvrdené zaplatenie registraèného poplatku, je mu udelená nevıluèná licencia k pouívaniu programu Pytagoras na poète poèítaèov, zhodnom s poètom zakúpenıch licencii, ako je vyššie uvedené v licenènıch podmienkach, k akémuko¾vek zákonnému úèelu. Registrovanı program nesmie by poièiavanı èi prenajímanı, môe však by ako celok prevedenı na iného uívate¾a, ktorı súhlasí s pravidlami licencie. Pokia¾ je software aktualizovanı, musia by spoloène s ním prevedené všetky predchádzajúce verzie.
+
+	4. Neregistrovaná skúšobná verzia môe by vo¾ne distribuovaná za predpokladu, e distribuènı balík nebude nijako modifikovanı.
+		a. iadna osoba ani spoloènos nesmie poadova poplatky za distribúciu bez písomného súhlasu drite¾a autorskıch práv.
+		b. Neregistrovaná skúšobná verzia nesmie by distribuovaná so iadnym inım softwarom èi systémom bez písomného súhlasu drite¾a autorskıch práv.
+		c. Hacks/crack, k¾uè alebo keygen nemôe by obsiahnutı na rovnakej stránke s distribúciou.
+	5. Pre zaregistrovanie je treba vyplni internetovı registraènı formulár a registraènı poplatkom uhradi kontaktnej osobe, distribútorovi alebo po dohode poštou na adresu autora / spoloènosti.
+	6. Program Pytagoras je distribuovanı "tak ako je". Neexistujú iadne záruky, èi u priamo vyjadrené èi vyplıvajúce. Pouívanie programu je na vlastné nebezpeèenstvo. Autor, zástupca autora ani Faboor’s Studio nezodpovedá za stratu dát, z disku alebo akúko¾vek inú stratu, spôsobenú pouívaním èi zneuitím tohto programu, nefunkènos, èi chybu vo fungovaní programu.
+	7. Okrem registraèného poplatku NIE SÚ s pouívaním Programu spojené iadne ïalšie poplatky. Legálne registrovaní uívatelia môu pouíva svoje kópie programu k èinnostiam, na ktoré je urèenı a vısledky tıchto èinností ïalej vo¾ne distribuova bez akıchko¾vek nárokov zo strany autora programu, distribútora programu.
+	8. Nie je povolené pouíva, kopírova, emulova, klonova, poièiava, prenajíma, predáva, modifikova, dekomprimova, disassemblova èi ináè spätne dekódova alebo prevádza licencovanı program alebo jeho èas okrem spôsobov, uvedenıch v licenènom dojednaní. Akéko¾vek takéto neautorizované pouitie povedie k okamitému a automatickému zániku tejto licencie a môe vies k trestnoprávnej alebo obèianskoprávnej alobe.
+
+Súbory ani k¾úèe programu nesmú by ináè, ako je uvedené v odseku 3), distribuované z dosahu èi monosti kontroly osoby, ktorá zakúpila pôvodnú licenciu, bez písomného súhlasu drite¾a autorskıch práv. Všetky práva, tu vıslovne nepriznané inému, patria Petrovi Kõvárymu.
+
+	9. Inštalácia a uívanie programu Pytagoras znamená súhlas s pravidlami a podmienkami tejto licencie.
+	10. Ak nesúhlasíte s podmienkami tejto licencie, musíte odstráni všetky súbory Pytagora zo všetkıch svojich diskov a inıch zariadení a presta produkt pouíva.
+
+Ïakujem Vám za pouívanie originálneho programu Pytagoras.
+Peter Kõváry
